@@ -3,7 +3,7 @@
 **Effective Date:** 10/16/2024
 
 ## Introduction  
-This Privacy Policy explains how the Full Instagram Profile Picture Extension ("the Extension") collects, uses, and protects your information when you use it. By installing and using this Extension, you consent to the data practices described in this policy.
+This Privacy Policy explains how the Full Instagram Profile Picture Extension collects, uses, and protects your information when you use it. By installing and using this Extension, you consent to the data practices described in this policy.
 
 ## Information Collection  
 The Full Instagram Profile Picture Extension does not collect personally identifiable information. The extension retrieves profile picture URLs from the Instagram platform solely for the purpose of providing its functionality. No data is stored or transmitted externally.
